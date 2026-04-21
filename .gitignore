@@ -1,0 +1,9 @@
+_prior_art/
+.env
+*.pyc
+__pycache__/
+node_modules/
+.svelte-kit/
+*.egg-info/
+dist/
+.DS_Store
